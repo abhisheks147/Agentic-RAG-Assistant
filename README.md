@@ -54,17 +54,6 @@ Response:
 
 Deep Learning is a subset of Machine Learning that uses artificial neural networks to learn patterns from data and solve complex problems such as image recognition, natural language processing, and predictive analytics.
 
-📂 Project Structure
-Agentic-RAG-Assistant/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── data/
-├── vectorstore/
-├── agents/
-├── utils/
-└── assets/
 🔥 Future Enhancements
 Support for multiple document formats
 Chat history and memory
